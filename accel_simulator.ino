@@ -1,4 +1,4 @@
-const int UPDATE_RATE = 1000;
+const int UPDATE_RATE = 100;
 float x_val, y_val;
 
 long prev_tick;
